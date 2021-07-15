@@ -99,7 +99,8 @@ h1{
     width: 400px;
     height: 400px;
     margin: 10px;
-    border-radius: 10px;
+    border-radius: 20px;
+    border: 10px solid whitesmoke
     }
 .gallery{
    display:grid;
@@ -190,10 +191,7 @@ footer {
        width: 100%;
        height: 100%;
    } 
-   .players-containers{
-       margin: 0; 
-   }
-   .players{
+   .players, .gallery{
     grid-template-columns: repeat(2,1fr); 
    }
 
