@@ -7,7 +7,9 @@ html,body{
     overflow-x: hidden;
 }
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
-/* -------top section css----------  */
+/* ------------------
+top section css
+----------  */
 .top-section{
     background-color: rgba(45, 37, 160, 1);
     height:500px ;
@@ -103,6 +105,7 @@ h1{
    display:grid;
    grid-template-columns: repeat(3,1fr);
    margin-left: 100px;
+   margin-right: 100px;
   }
 /*----------- ---------
 footer section
