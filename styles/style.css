@@ -61,7 +61,7 @@ h2{
 }
 /* -------all player section------- */
 .container{
-    margin: 70px 190px;
+    margin: 70px 180px;
 }
 .players h3{
 font-size: 28px;
@@ -92,18 +92,20 @@ width: 100%;
 border-radius: 10px;
 }
 h1{
-    margin-left: 35px;
+    margin-left: 110px;
+    font-size: 40px;
 }
 .gallery img{
     width: 400px;
     height: 400px;
     margin: 10px;
+    border-radius: 10px;
     
 }
 .gallery{
    display:grid;
    grid-template-columns: repeat(3,1fr);
-   margin-left: 30px;
+   margin-left: 100px;
   }
 /*----------- footer section--------*/
 footer {
